@@ -1,0 +1,14 @@
+torch
+transformers==4.45.2
+accelerate
+bitsandbytes
+scikit-learn
+datasets
+pandas==2.2.2
+numpy
+scipy
+matplotlib
+joblib
+bert-score
+codecarbon==3.3.0
+huggingface_hub
